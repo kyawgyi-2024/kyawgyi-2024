@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kyawgyi-2024
-- 👀 I’m interested in FrontEnd Developer.
+- 👀 I’m in FrontEnd Developer.
 - 🌱 I’m currently learning FrontEnd.
 - 💞️ I’m looking to collaborate on create amazing web and app.
 - 📫 How to reach me ...

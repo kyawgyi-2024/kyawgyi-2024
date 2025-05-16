@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kyawgyi-2024
-- 👀 I’m in FrontEnd Developer.
-- 🌱 I’m currently learning FrontEnd.
+- 👀 I’m in FrontEnd Developer and Now I also start learning Backend languages.
+- 🌱 I’m currently learning for Full-Stack Web Developer.
 - 💞️ I’m looking to collaborate on create amazing web and app.
 - 📫 How to reach me ...
 - 😄Thank you! Reading me.

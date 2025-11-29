@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @koko.
 - 👀 I’m in BackEnd Developer and Now I also start learning Backend languages.
-- 🌱 I’m currently learning for Full-Stack Web Developer.
+- 🌱 I’m currently learning for Backend Web-Developer.
 - 💞️ I’m looking to collaborate on create amazing web and app.
 - 📫 How to reach me ...
 - 😄Thank you! Reading me.

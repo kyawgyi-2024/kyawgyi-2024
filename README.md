@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @koko.
-- 👀 I’m in BackEnd Developer and Now I also start learning Backend languages.
-- 🌱 I’m currently learning for Backend Web-Developer.
-- 💞️ I’m looking to collaborate on create amazing web and app.
-- 📫 How to reach me ...
-- 😄Thank you! Reading me.
-- ⚡ Fun fact: ...
+👋 Hi, I’m @koko
+
+👀 I’m a DevOps Engineer passionate about building reliable and scalable systems.
+🌱 Currently learning Linux fundamentals and cloud technologies, mainly working with AWS.
+💞️ I’m open to collaborating on exciting web and application projects.
+📫 How to reach me: (email / Linkin)
+😄 Thanks for stopping by!
+⚡ Fun fact: I enjoy learning new tech every day and solving real-world problems.
 
 <!---
 kyawgyi-2024/kyawgyi-2024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
